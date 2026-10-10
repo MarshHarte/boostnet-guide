@@ -1,10 +1,10 @@
-# BoostNet機場官網入口｜AnyTLS與VPN客戶端相容 **（更新於2026-10-08）**
+# BoostNet機場官網入口｜AnyTLS與VPN客戶端相容 **（更新於2026-10-10）**
 
 [简体中文](README.md) · **繁體中文** · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Русский](README.ru.md)
 
 本專案由BoostNet官方釋出與維護。BoostNet機場官方入口與VPN客戶端相容指南：AnyTLS配置核對、軟體與核心版本、裝置規則、連線錯誤定位及入口原始碼。 準備 BoostNet 加速器配置時，訂閱能被匯入和客戶端能建立連線需要分別確認。
 
-**地址更新於 2026-10-08（北京時間）**
+**地址更新於 2026-10-10（北京時間）**
 
 [官網入口](#official-addresses) · [使用步驟](#usage-guide) · [術語與接入方式](#connection-terms) · [常見問題](#brand-faq)
 
